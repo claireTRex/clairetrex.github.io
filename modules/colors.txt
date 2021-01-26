@@ -1,7 +1,2 @@
-light-black
-light-red
-light-yellow
-light-purple
-light-cyan
-light-white
 light-orange
+
